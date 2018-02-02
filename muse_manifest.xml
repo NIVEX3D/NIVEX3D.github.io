@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="NIVEX3D.github.io" resolutions="1x" timestamp="1517581600049">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mallsida.css" crc="3886069606" ref="music:index:3d:about"/>
+    <file name="music.css" crc="4080329260" ref="music"/>
+    <file name="index.css" crc="3876368432" ref="index"/>
+    <file name="3d.css" crc="378204805" ref="3d"/>
+    <file name="about.css" crc="3832957790" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="parkbench1.rar" crc="117529453" seo="true" mt="1517577192000"/>
+    <file name="parkbench2.rar" crc="3896001954" seo="true" mt="1517577200000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:3d:music:index"/>
+    <file name="museutils.js" crc="163421577" ref="about:3d:music:index"/>
+    <file name="whatinput.js" crc="86476730" ref="about:3d:music:index"/>
+    <file name="museconfig.js" crc="168988563" ref="about:3d:music:index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="about:3d:music:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="about:3d:music:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:3d:music:index"/>
+    <file name="require.js" crc="244322403" ref="about:3d:music:index"/>
+  </folder>
+  <folder name="images">
+    <file name="bänk1.jpg" crc="4154408879" seo="true" ref="3d:index"/>
+    <file name="bänk2.jpg" crc="520789425" seo="true" ref="3d:index"/>
+  </folder>
+  <file name="about.html" crc="3965540041" seo="true" mt="1517580829355" redirect="true"/>
+  <file name="3d.html" crc="3783687275" seo="true" mt="1517580493322" redirect="true"/>
+  <file name="music.html" crc="326291364" seo="true" mt="1517580488157" redirect="true"/>
+  <file name="index.html" crc="169963495" seo="true" mt="1517580509413" redirect="true"/>
+</manifest>
