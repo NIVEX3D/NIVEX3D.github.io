@@ -1,15 +1,17 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="NIVEX3D.github.io" resolutions="1x" timestamp="1517746779437">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="NIVEX3D.github.io" resolutions="1x" timestamp="1519999563569">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-mallsida.css" crc="3886069606" ref="3d:index:about:music"/>
-    <file name="3d.css" crc="378204805" ref="3d"/>
-    <file name="index.css" crc="3876368432" ref="index"/>
+    <file name="3d.css" crc="423941722" ref="3d"/>
+    <file name="index.css" crc="3895290418" ref="index"/>
     <file name="about.css" crc="3832957790" ref="about"/>
     <file name="music.css" crc="4080329260" ref="music"/>
   </folder>
   <folder name="assets">
     <file name="parkbench1.rar" crc="301511108" seo="true" mt="1517745434000"/>
     <file name="parkbench2.rar" crc="3988811399" seo="true" mt="1517745438000"/>
+    <file name="parkbench12.rar" crc="301511108" seo="true" mt="1517823174000"/>
+    <file name="parkbench22.rar" crc="3988811399" seo="true" mt="1519998887000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:3d:music:index"/>
@@ -24,9 +26,10 @@
   <folder name="images">
     <file name="bänk1.jpg" crc="4154408879" seo="true" ref="3d:index"/>
     <file name="bänk2.jpg" crc="520789425" seo="true" ref="3d:index"/>
+    <file name="4480668d2bc4371d05b9108c672b15b4.jpg" crc="4155372816" seo="true" ref="index"/>
   </folder>
   <file name="about.html" crc="3965540041" seo="true" mt="1517580829355" redirect="true"/>
-  <file name="3d.html" crc="397307381" seo="true" mt="1517582380142" redirect="true"/>
+  <file name="3d.html" crc="142804632" seo="true" mt="1519999388050" redirect="true"/>
   <file name="music.html" crc="65584581" seo="true" mt="1517582354913" redirect="true"/>
-  <file name="index.html" crc="169963495" seo="true" mt="1517580509413" redirect="true"/>
+  <file name="index.html" crc="3852474867" seo="true" mt="1519999364590" redirect="true"/>
 </manifest>
